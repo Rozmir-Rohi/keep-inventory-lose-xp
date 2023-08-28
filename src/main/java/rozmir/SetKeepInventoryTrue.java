@@ -8,7 +8,7 @@ import cpw.mods.fml.common.gameevent.PlayerEvent;
 
 
 
-public class ConnectionHandler {
+public class SetKeepInventoryTrue {
 	@SubscribeEvent
     public void onPlayerLogin(PlayerEvent.PlayerLoggedInEvent event) {
 		

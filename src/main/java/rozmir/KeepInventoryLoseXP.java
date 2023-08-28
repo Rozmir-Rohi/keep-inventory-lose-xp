@@ -21,6 +21,6 @@ public class KeepInventoryLoseXP
 	@EventHandler
 	public void load(FMLInitializationEvent event) {
 		
-		FMLCommonHandler.instance().bus().register(new ConnectionHandler());
+		FMLCommonHandler.instance().bus().register(new SetKeepInventoryTrue());
 	}
 }
