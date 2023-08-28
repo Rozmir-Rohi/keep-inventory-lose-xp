@@ -1,0 +1,16 @@
+[
+{
+  "modid": "keepinventorylosexp",
+  "name": "Keep Inventory Lose XP",
+  "description": "Players keep inventory but drop same vanilla XP",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rozmir"],
+  "credits": "Silly511, sergiusonesimus, and unclecat_. See credits file in jar archive for contributions.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

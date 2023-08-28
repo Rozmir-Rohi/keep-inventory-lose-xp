@@ -1,0 +1,9 @@
+-------------------------	
+	CREDITS
+-------------------------
+
+Silly511 - Original inspiration for mod, and code for setting gamerules was sourced from ConnectionHandler.class in the "Keeping Inventory" mod.
+
+sergiusonesimus - Code for detecting player deaths was sourced from GravestoneEventHandler.class in the "GraveStones - Die Classy Updated" mod.
+
+unclecat_ - Provided code for removing XP from players.
