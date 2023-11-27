@@ -1,4 +1,4 @@
-# keep-inventory-lose-xp
+# Keep Inventory Lose XP
 Players keep Inventory but drop same XP as vanilla on Death.
 
 
