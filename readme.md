@@ -4,7 +4,7 @@ Players keep Inventory but drop same XP as vanilla on Death.
 
 
 
-## CREDITS & LICENSE CONDITIONS:
+## Credits & Llicense Conditions:
 
 **Silly511** - Original inspiration for the mod, and code for setting gamerules was sourced from ConnectionHandler.class in the "Keeping Inventory" mod, this works within the custom license conditions.
 
