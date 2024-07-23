@@ -6,4 +6,6 @@ Silly511 - Original inspiration for mod, and code for setting gamerules was sour
 
 sergiusonesimus - Code for detecting player deaths was sourced from GravestoneEventHandler.class in the "GraveStones - Die Classy Updated" mod.
 
-unclecat_ - Provided code for removing XP from players.
+unclecat_ - Provided code for removing XP from players (https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/modification-development/2503178-remove-xp-from-player-forge).
+
+SnubMansters - Their forum post helped me understand how to make and use config files (https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/modification-development/2467087-config-file-entity-ids).
