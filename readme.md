@@ -12,6 +12,8 @@ Players keep Inventory but drop same XP as vanilla on Death.
 
 **unclecat_** - Provided code for removing XP from players (https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/modification-development/2503178-remove-xp-from-player-forge).
 
+**SnubMansters** - Their forum post helped me understand how to make and use config files (https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/modification-development/2467087-config-file-entity-ids).
+
 
 ### Use of anatawa12's Fork of ForgeGradle 1.2 within Project:
 The source code of this project uses anatawa12's fork of ForgeGradle 1.2 as a library under the GNU Lesser General Public License v2.1 (https://choosealicense.com/licenses/lgpl-2.1/).
