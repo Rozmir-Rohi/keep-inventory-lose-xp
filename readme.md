@@ -1,4 +1,9 @@
 # Keep Inventory Lose XP
+**Project Status:** Finished & Finalized
+
+*The developer of this project is retired and does not respond to private messages or GitHub issues.*
+<br><br>
+
 Players keep Inventory but drop same XP as vanilla on Death.
 
 
